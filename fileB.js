@@ -1,8 +1,8 @@
-//first task
+//first object.
 module.exports.foo = 'hello world';
 module.exports.bar = 'goodbye world';
 
-//second task
+//second function
 let number = 5;
 
 module.exports = () => {
