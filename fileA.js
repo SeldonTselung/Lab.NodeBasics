@@ -1,4 +1,5 @@
 //console.log(exportsFromFileB)
+
 const exportsFromFileB = require('./fileB');
 exportsFromFileB();
 
